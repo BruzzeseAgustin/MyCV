@@ -1,6 +1,5 @@
 body
 {
-	
 	background: #CCC;
 }
 
@@ -11,8 +10,57 @@ body
 
 #bg-img
 {
-	background: url("/img/landscape.jpg");
-	background-size: 100%;
+	background-size: 1000%;
 	background-repeat: no-repeat;
 	min-width: 500px;
+}
+
+#About
+{
+margin-top: -200px;
+}
+
+#About span
+{
+  padding: 10px 20px 10px 20px; 
+
+}
+
+#About hr
+{
+  border-width: 2px;
+  margin-top: 6px;
+}
+
+#Skills span
+{
+  padding: 10px 20px 10px 20px; 
+}
+
+#Skills hr
+{
+  border-width: 2px;
+  margin-top: 6px;
+}
+
+.card {
+  padding: 10px 20px 10px 20px;
+  text-align: center;
+}
+
+
+#Education
+{
+margin-top: -200px;
+}
+
+#Education span
+{
+  padding: 10px 20px 10px 20px; 
+}
+
+#Education hr
+{
+  border-width: 2px;
+  margin-top: 6px;
 }

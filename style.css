@@ -1,72 +1,38 @@
-.justify {
-    text-align: justify;
-    text-justify: inter-word;
-}
-
-#myProgress {
-  width: 100%;
-  background-color: #ddd;
-}
-
-#myBar_0 {
-  width: 70%;
-  height: 30px;
-  background-color: #4CAF50;
-  text-align: center;
-  line-height: 30px;
-  color: white;
-}
-
-#myBar_1 {
-  width: 5%;
-  height: 30px;
-  background-color: #4CAF50;
-  text-align: center;
-  line-height: 30px;
-  color: white;
-}
-
-#myBar_2 {
-  width: 7%;
-  height: 30px;
-  background-color: #4CAF50;
-  text-align: center;
-  line-height: 30px;
-  color: white;
-}
 
 #div
 {
     border-radius: 5px;
     }
 #Personal {
-	border-radius: 5px 10px 5px 10px/ 10px 5px 10px 5px;
-	border-radius: 5px;
-	border-radius: 5px / 10px;
+  border-radius: 5px 10px 5px 10px/ 10px 5px 10px 5px;
+  border-radius: 5px;
+  border-radius: 5px / 10px;
 }
 #name {
     float:left;
-	margin-left: 20px;
-	padding-bottom: 10px;
-	font-size: 16px;
-	font-family: Verdana, sans-serif;
-	color: #ffffff;
+  margin-left: 20px;
+  padding-bottom: 10px;
+  font-size: 16px;
+  font-family: Verdana, sans-serif;
+  color: #ffffff;
 }
 
 #email{
     float:right;
     margin-right: 20px;
-	padding-bottom: 10px;
-	font-size: 16px;
-	font-family: Verdana, sans-serif;
-	color: #ffffff;
+  padding-bottom: 10px;
+  font-size: 16px;
+  font-family: Verdana, sans-serif;
+  color: #ffffff;
 }
+
 * {
-	margin: 0px;
-	padding: 0px;
+  margin: 0px;
+  padding: 0px;
 }
+
 h1 {
-	font: bold 20px verdana, sans-serif;
+  font: bold 20px verdana, sans-serif;
 }
 h2 {
 font: bold 14px verdana, sans-serif;
@@ -78,105 +44,105 @@ body {
 text-align: center;
 }
 #agrupar {
-	width: 960px;
-	margin: 15px auto;
-	text-align: left;
+  width: 960px;
+  margin: 15px auto;
+  text-align: left;
 }
 #cabecera {
-	background: #FFFBB9;
-	border: 1px solid #999999;
-	padding: 20px;
+  background: #FFFBB9;
+  border: 1px solid #999999;
+  padding: 20px;
 }
 #menu {
-	background: #CCCCCC;
-	padding: 5px 15px;
+  background: #CCCCCC;
+  padding: 5px 15px;
 }
 #menu li {
-	display: inline-block;
-	list-style: none;
-	padding: 5px;
-	font: bold 14px verdana, sans-serif;
+  display: inline-block;
+  list-style: none;
+  padding: 5px;
+  font: bold 14px verdana, sans-serif;
 }
 
 #seccion {
-	float: left;
-	width: 660px;
-	margin: 20px;
+  float: left;
+  width: 660px;
+  margin: 20px;
 }
 #columna {
-	float: left;
-	width: 220px;
-	margin: 20px 0px;
-	padding: 20px;
-	font-size: 10px;
-	font-family: Verdana, sans-serif;
-	background: #CCCCCC;
+  float: left;
+  width: 220px;
+  margin: 20px 0px;
+  padding: 20px;
+  font-size: 10px;
+  font-family: Verdana, sans-serif;
+  background: #CCCCCC;
 }
 #pie {
-	clear: both;
-	text-align: center;
-	padding: 20px;
-	border-top: 2px solid #999999;
+  clear: both;
+  text-align: center;
+  padding: 20px;
+  border-top: 2px solid #999999;
 }
 
 #lastmodified {
-	clear: both;
-	text-align: right;
-	padding: 5px;
-	border-top: 1px solid #999999;
-	font: italic 10px verdana, sans-serif;
+  clear: both;
+  text-align: right;
+  padding: 5px;
+  border-top: 1px solid #999999;
+  font: italic 10px verdana, sans-serif;
 }
 
 
 article {
-	background: #FFFBCC;
-	border: 1px solid #999999;
-	padding: 20px;
-	margin-bottom: 15px;
+  background: #FFFBCC;
+  border: 1px solid #999999;
+  padding: 20px;
+  margin-bottom: 15px;
 }
 article footer {
-	text-align: right;
+  text-align: right;
 }
 time {
-	color: #999999;
+  color: #999999;
 }
 figcaption {
-	font: italic 14px verdana, sans-serif;
+  font: italic 14px verdana, sans-serif;
 }
 
 #principal {
-	display: block;
-	width: 500px;
-	margin: 50px auto;
-	padding: 15px;
-	text-align: center;
-	border: 1px solid #999999;
-	background: #DDDDDD;
+  display: block;
+  width: 500px;
+  margin: 50px auto;
+  padding: 15px;
+  text-align: center;
+  border: 1px solid #999999;
+  background: #DDDDDD;
 
-	-moz-border-radius: 20px;
-	-webkit-border-radius: 20px;
-	border-radius: 20px;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  border-radius: 20px;
 
-	-moz-box-shadow: rgb(150,150,150) 5px 5px 10px;
-	-webkit-box-shadow: rgb(150,150,150) 5px 5px 10px;
-	box-shadow: rgb(150,150,150) 5px 5px 10px;
+  -moz-box-shadow: rgb(150,150,150) 5px 5px 10px;
+  -webkit-box-shadow: rgb(150,150,150) 5px 5px 10px;
+  box-shadow: rgb(150,150,150) 5px 5px 10px;
 
-	background: -webkit-linear-gradient(top, #FFFFFF, #006699);
-	background: -moz-linear-gradient(top, #FFFFFF, #006699);
-	
-	outline: 2px dashed #000099;
-	outline-offset: 15px;
+  background: -webkit-linear-gradient(top, #FFFFFF, #006699);
+  background: -moz-linear-gradient(top, #FFFFFF, #006699);
+  
+  outline: 2px dashed #000099;
+  outline-offset: 15px;
 
     moz-transition: -moz-transform 1s ease-in-out 0.5s;
     -webkit-transition: -webkit-transform 1s ease-in-out 0.5s;
 }
 #titulo {
-	font: bold 36px MiNuevaFuente, verdana, sans-serif;
-	text-shadow: rgb(0,0,150) 3px 3px 5px;
+  font: bold 36px MiNuevaFuente, verdana, sans-serif;
+  text-shadow: rgb(0,0,150) 3px 3px 5px;
 }
 @font-face {
-	font-family: 'MiNuevaFuente';
-	src: url('font.ttf');
+  font-family: 'MiNuevaFuente';
+  src: url('font.ttf');
 }
 #principal:hover{
      -moz-transform: rotate(5deg);
