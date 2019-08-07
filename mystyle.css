@@ -1,0 +1,18 @@
+body
+{
+	
+	background: #CCC;
+}
+
+#Header .a:hover
+{
+	color: #FFF;
+}
+
+#bg-img
+{
+	background: url("/img/landscape.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	min-width: 500px;
+}
