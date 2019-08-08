@@ -3,6 +3,14 @@ body
 	background: #CCC;
 }
 
+.icon-cog {
+  color: black;
+}
+
+.fa-cog {
+  color: black;
+}
+
 #Header .a:hover
 {
 	color: #FFF;
