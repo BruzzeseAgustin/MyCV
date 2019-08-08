@@ -13,6 +13,8 @@ body
 	background-size: 1000%;
 	background-repeat: no-repeat;
 	min-width: 500px;
+  text-align:center;
+  display:block;
 }
 
 #portrait {
