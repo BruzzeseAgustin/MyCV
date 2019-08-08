@@ -15,6 +15,10 @@ body
 	min-width: 500px;
 }
 
+#portrait {
+  border-radius: 50%;
+}
+
 #About
 {
 margin-top: -200px;
@@ -28,7 +32,7 @@ margin-top: -200px;
 
 #About hr
 {
-  border-width: 2px;
+  border-width: 3px;
   margin-top: 6px;
 }
 
@@ -39,7 +43,7 @@ margin-top: -200px;
 
 #Skills hr
 {
-  border-width: 2px;
+  border-width: 3px;
   margin-top: 6px;
 }
 
@@ -61,6 +65,43 @@ margin-top: -200px;
 
 #Education hr
 {
-  border-width: 2px;
-  margin-top: 6px;
+  border-width: 3px;
+  margin-top: 06px;
+}
+
+#Experience
+{
+margin-top: -200px;
+}
+
+#Experience span
+{
+  padding: 10px 20px 10px 20px; 
+}
+
+#Experience hr
+{
+  border-width: 3px;
+  margin-top: 06px;
+}
+
+#Experience .card
+{
+  border-top: 3px solid grey;
+}
+
+#Publications
+{
+margin-top: -200px;
+}
+
+#Publications span
+{
+  padding: 10px 20px 10px 20px; 
+}
+
+#Publications hr
+{
+  border-width: 3px;
+  margin-top: 06px;
 }
