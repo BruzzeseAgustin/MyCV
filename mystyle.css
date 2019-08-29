@@ -3,14 +3,6 @@ body
 	background: #CCC;
 }
 
-.icon-cog {
-  color: black;
-}
-
-.fa-cog {
-  color: black;
-}
-
 #Header .a:hover
 {
 	color: #FFF;
@@ -114,57 +106,3 @@ margin-top: -200px;
   border-width: 3px;
   margin-top: 06px;
 }
-
-/* The dropdown container */
-.AddSkills {
-  float: left;
-  overflow: hidden;
-}
-
-/* Dropdown button */
-.AddSkills .AddSkillsbtn {
-  font-size: 16px;
-  border: none;
-  outline: none;
-  color: black;
-  padding: 10px 20px 10px 20px; 
-  background-color: inherit;
-  font-family: inherit; /* Important for vertical align on mobile phones */
-  margin: 0; /* Important for vertical align on mobile phones */
-  background-color: white;
-}
-
-.AddSkills:hover .AddSkillsbtn {
-  color: white;
-  background-color: black;
-}
-
-/* Dropdown content (hidden by default) */
-.AddSkills-content {
-  display: none;
-  position: absolute;
-  background-color: #f9f9f9;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
-}
-
-/* Links inside the dropdown */
-.AddSkills-content a {
-  float: none;
-  color: black;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none;
-  display: block;
-  text-align: left;
-}
-
-/* Add a grey background color to dropdown links on hover */
-.AddSkills-content a:hover {
-  background-color: #ddd;
-}
-
-/* Show the dropdown menu on hover */
-.AddSkills:hover .AddSkills-content {
-  display: block;
-} 
